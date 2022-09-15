@@ -7,6 +7,6 @@ This is a low-level implementation of a multi-functional touchscreen piano keybo
 
 To learn more fully about the piano, refer to the project report (see pdf).
 
-<img src="https://user-images.githubusercontent.com/97603154/190451004-a20ce5c4-b2de-44df-9b24-63c9b98d3d87.jpg" width="25%" height="25%">
-<figcaption>Fig: Final product</figcaption>
+<img src="https://user-images.githubusercontent.com/97603154/190451004-a20ce5c4-b2de-44df-9b24-63c9b98d3d87.jpg" width="50%" height="50%">
+<figcaption>Final product</figcaption>
 
