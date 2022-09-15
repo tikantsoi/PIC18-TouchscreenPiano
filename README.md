@@ -5,3 +5,8 @@ This is a low-level implementation of a multi-functional touchscreen piano keybo
 - record & replay
 - clear memory
 
+To learn more fully about the piano, refer to the project report (see pdf).
+
+![Fig](https://user-images.githubusercontent.com/97603154/190451004-a20ce5c4-b2de-44df-9b24-63c9b98d3d87.jpg)
+:--:
+*Final Product*
